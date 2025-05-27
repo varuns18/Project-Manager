@@ -28,7 +28,7 @@ Project Manager is a powerful and intuitive Android application designed to stre
 - **Firebase** (Authentication, Firestore, Storage, Cloud Messaging)
 - **Room Database** (for local/offline data storage)
 - **Jetpack Components** (ViewModel, LiveData, Navigation, etc.)
-- **Material Design**
+- **Material 3 Design**
 
 ## Getting Started
 
